@@ -20,11 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4de086a-f7b9-4299-8130-d4f4a617e19e" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nanuka/cdfc69fe5858b388061493ff23a1ae5e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pics/05312394660dcf838f53d83455ab1c94.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pics/9520fdda2e29007fdc90e74fd8fb4e49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pics/bigfish.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chess.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework1.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styless2.css" beforeDir="false" afterPath="$PROJECT_DIR$/styless2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,8 +51,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="AngularJS" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -92,6 +94,8 @@
       <workItem from="1606938577861" duration="882000" />
       <workItem from="1608126753121" duration="1726000" />
       <workItem from="1608128912399" duration="1543000" />
+      <workItem from="1608131327325" duration="1694000" />
+      <workItem from="1608133217156" duration="604000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1606498943673</created>
@@ -100,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606498943673</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1608131478503</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608131478503</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +131,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606338239720">
