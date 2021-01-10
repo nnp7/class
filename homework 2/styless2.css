@@ -1,8 +1,8 @@
 body {
-    background-image: url("jetbrains://web-storm/navigate/reference?project=class1&path=.idea/pics/bigfish.jpg)
+    background-image:("np.jpg")
 }
 h1 {
- 0   font-size:40px;
+    font-size:40px;
     -webkit-text-fill-color: transparent;
     -webkit-text-stroke: 2px black;
     border:3.5px solid #112b86;
@@ -10,13 +10,7 @@ h1 {
 h1, h2,h3 {
     text-align: center;
 }
-.container {
-    display:flex;
-    flex-direction:row;
-    border:2px solid #a22222;
-    padding:20px;
-    margin: 20px;
-}
+
 h3 {
     font-size:25px;
     -webkit-text-fill-color: transparent;
