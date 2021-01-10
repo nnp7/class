@@ -20,24 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4de086a-f7b9-4299-8130-d4f4a617e19e" name="Default Changelist" comment="Update index.html">
-      <change afterPath="$PROJECT_DIR$/map/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/markers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p5/p5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p5/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map/world-map.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework 2/pics/289930007fb18b3fcffecf26fe4b925b.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Site/pics/289930007fb18b3fcffecf26fe4b925b.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework 2/pics/6eee05a44e2c0755c014230bd40612fb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Site/pics/6eee05a44e2c0755c014230bd40612fb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework 2/pics/7dd681848279f8ead930a837bc001dce.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Site/pics/7dd681848279f8ead930a837bc001dce.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework 2/pics/indexi.html" beforeDir="false" afterPath="$PROJECT_DIR$/Site/pics/indexi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework 2/pics/np.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Site/pics/np.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework 2/pics/p5.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Site/pics/p5.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework 2/styless2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Site/styless2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sia/dropdown.css" beforeDir="false" afterPath="$PROJECT_DIR$/dropwdown list/dropdown.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sia/dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/dropwdown list/dropdown.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sia/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/dropwdown list/index3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sia/indexi.html" beforeDir="false" afterPath="$PROJECT_DIR$/dropwdown list/indexi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Site/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +35,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
+        <option value="package.json" />
       </list>
     </option>
   </component>
@@ -126,6 +115,10 @@
       <workItem from="1610303388550" duration="1649000" />
       <workItem from="1610309185770" duration="2152000" />
       <workItem from="1610311811774" duration="1653000" />
+      <workItem from="1610314255087" duration="285000" />
+      <workItem from="1610364063549" duration="1785000" />
+      <workItem from="1610366137468" duration="1747000" />
+      <workItem from="1610368019630" duration="709000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1606498943673</created>
@@ -176,7 +169,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610291008189</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'gith/master'">
+      <created>1610314434424</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610314434424</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update index.html">
+      <created>1610314469454</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610314469455</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +203,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
+    <MESSAGE value="Merge remote-tracking branch 'gith/master'" />
     <MESSAGE value="Update index.html" />
     <option name="LAST_COMMIT_MESSAGE" value="Update index.html" />
   </component>
