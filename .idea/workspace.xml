@@ -19,22 +19,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4de086a-f7b9-4299-8130-d4f4a617e19e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework 2/pics/289930007fb18b3fcffecf26fe4b925b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework 2/pics/6eee05a44e2c0755c014230bd40612fb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework 2/pics/7dd681848279f8ead930a837bc001dce.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework 2/pics/indexi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework 2/pics/np.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework 2/pics/p5.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmwrk3/dropdown.css" beforeDir="false" afterPath="$PROJECT_DIR$/sia/dropdown.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmwrk3/dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/sia/dropdown.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmwrk3/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/sia/index3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nanuka/cdfc69fe5858b388061493ff23a1ae5e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nanuka/dc2822d412bd5eccb4e31a6b3a35bb1a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nanuka/homework1.html" beforeDir="false" />
+    <list default="true" id="e4de086a-f7b9-4299-8130-d4f4a617e19e" name="Default Changelist" comment="Update index.html">
+      <change afterPath="$PROJECT_DIR$/map/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map/markers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p5/p5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p5/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework 2/pics/289930007fb18b3fcffecf26fe4b925b.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Site/pics/289930007fb18b3fcffecf26fe4b925b.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework 2/pics/6eee05a44e2c0755c014230bd40612fb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Site/pics/6eee05a44e2c0755c014230bd40612fb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework 2/pics/7dd681848279f8ead930a837bc001dce.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Site/pics/7dd681848279f8ead930a837bc001dce.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework 2/pics/indexi.html" beforeDir="false" afterPath="$PROJECT_DIR$/Site/pics/indexi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework 2/pics/np.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Site/pics/np.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework 2/pics/p5.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Site/pics/p5.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework 2/styless2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Site/styless2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sia/dropdown.css" beforeDir="false" afterPath="$PROJECT_DIR$/dropwdown list/dropdown.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sia/dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/dropwdown list/dropdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sia/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/dropwdown list/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sia/indexi.html" beforeDir="false" afterPath="$PROJECT_DIR$/dropwdown list/indexi.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +48,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -118,7 +121,11 @@
       <workItem from="1608321976802" duration="1180000" />
       <workItem from="1610286462950" duration="1697000" />
       <workItem from="1610288332250" duration="1467000" />
-      <workItem from="1610290146117" duration="754000" />
+      <workItem from="1610290146117" duration="1422000" />
+      <workItem from="1610297746281" duration="4802000" />
+      <workItem from="1610303388550" duration="1649000" />
+      <workItem from="1610309185770" duration="2152000" />
+      <workItem from="1610311811774" duration="1653000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1606498943673</created>
@@ -155,7 +162,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608245483359</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update index.html">
+      <created>1610290993903</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610290993903</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update index.html">
+      <created>1610291008188</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610291008189</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +196,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Update index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update index.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606338239720">
@@ -218,10 +240,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="481" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608252480161" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1610289045093">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1610291010721">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610289045093" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610291010721" />
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610288549464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
