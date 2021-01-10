@@ -1,0 +1,496 @@
+Index: index.html
+===================================================================
+--- index.html	(revision fd57dc9ac3e308ea89066c2621df712509d544c2)
++++ index.html	(revision fd57dc9ac3e308ea89066c2621df712509d544c2)
+@@ -1,78 +0,0 @@
+-<!DOCTYPE html>
+-<html lang="en">
+-<head>
+-    <meta charset="UTF-8">
+-    <title>Movie world</title>
+-    <link rel="stylesheet" href="styles2.css">
+-</head>
+-<body>
+-<h1> Movie World </h1>
+-<h2>“ what are Movies? Movies, or films, are a type of visual communication which uses moving pictures and sound to tell stories
+-    or teach people something. Most people watch movies as a type of entertainment or a way to have fun. For some
+-    people, fun movies can mean movies that make them laugh, while for others it can mean movies that make them
+-    cry, or feel afraid.”</h2>
+-<div class="container">
+-    <p class="container">
+-        <b> Genres:Action movies have a lot of exciting effects like car chases and gun fights, involving stuntmen. They usually involve 'goodies' and 'baddies', so war and crime are common subjects. Action movies usually need very little effort to watch, since the plot is normally simple. For example, in Die Hard, terrorists take control of a skyscraper and ask for a big ransom in exchange for not killing the hostage workers. One hero somehow manages to save everyone. Action movies do not usually make people cry, but if the action movie is also a drama, emotion will be involved.
+-            Adventure Movies usually involve a hero who sets out on a quest to save the world or loved ones.
+-            Animated movies use artificial images like talking cartoons to tell a story. These movies used to be drawn by hand, one frame at a time, but are now made on computers.
+-            Buddy movies involve 2 heroes, one must save the other, both must overcome obstacles. Buddy movies often involve comedy, but there is also some emotion, because of the close friendship between the 'buddies'.
+-            Comedies are funny movies about people being silly or doing unusual things or being in silly or unusual situations that make the audience laugh.
+-            Documentaries are movies that are (or claim to be) about real people and real events. They are nearly always serious and may involve strongly emotional subjects, for example cruelty.
+-            Dramas are serious, and often about people falling in love or needing to make a big decision in their life. They tell stories about relationships between people. They usually follow a basic plot where one or two main characters (each actor plays a character) have to 'overcome' (get past) an obstacle (the thing stopping them) to get what they want.
+-            Tragedies are always dramas, and are about people in trouble. For example, a husband and wife who are divorcing must each try to prove to a court of law that they are the best person to take care of their child. Emotion (feelings) are a big part of the movie and the audience (people watching the movie) may get upset and even cry.
+-            Film noir movies are 1940s-era detective dramas about crime and violence.
+-            Family movies are made to be good for the entire family. They are mainly made for children but often entertaining for adults as well. Disney is famous for their family movies.
+-            Horror movies use fear to excite the audience. Music, lighting and sets (man-made places in movie studios where the movie is made) are all designed to add to the feeling.
+-            Romantic Comedies (Rom-Coms) are usually love stories about 2 people from different worlds, who must overcome obstacles to be together. Rom-Coms are usually light-hearten, but may include some emotion.
+-            Comedy horror movies blend horror and comic motifs in its plots. Movies in this genre sometimes use black comedy as the main form of humor.
+-            Science fiction movies are set in the future or in outer space. Some use their future or alien settings to ask questions about the meaning of life or how we should think about life. Science fiction movies often use special effects to create images of alien worlds, outer space, alien creatures, and spaceships.
+-            Fantasy movies include magical and impossible things that any real human being cannot do.
+-            Thrillers are usually about a mystery, strange event, or crime that needs to be solved. The audience is kept guessing until the final minutes, when there are usually 'twists' in the plot (surprises).
+-            Suspense movies keep you on the edge of your seat. They usually have multiple twists that confuse the watcher.
+-            Western movies tell stories about cowboys in the western United States in the 1870s and 1880s. They are usually action movies, but with historical costumes. Some involve Native Americans. Not all films that are set in the American West are made there. For example, Western films made in Italy are called Spaghetti Westerns. Some films can also use Western plots even if they are set in other places.
+-            .</b>
+-    </p>
+-    <p class="container">
+-        <b> Most movies lose money but some make profits in the hundreds of millions, be they dollars, euro or pounds. In India movies have become an enormous part of the economy. The industry has always been dominated by a few major movie studios like MGM/UA, Warner Bros., Columbia, Lucasfilm, Paramount or Disney. </b>
+-    </p>
+-    <p class="container">
+-        <b Movies are watched by everyone. We all enjoy them. From thrillers to adventures, comedy to horror movies is part of everyday life and the industry is growing every single day. Learn how they affect our society
+-        </b>
+-    </p>
+-</div>
+-<div class="container">
+-    <img src="lucid.jpg"<img src=".idea/pics/lucid.jpg" height="690" width="1400"/> width="140" height="69" />
+-    <p> <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00459/full" target="_blank" >Role of Dreaming </a> </p>
+-    <img src="sleeping.jpg"<img src=".idea/pics/sleeping.jpg" height="720" width="1280"/> width="140" height="69" />
+-    <p> <a href="https://www.buildingbeautifulsouls.com/dream-interpretation-meanings/30-types-of-dreams-what-they-mean/" target="_blank" >Types of Dreams </a> </p>
+-    <img src="dejavu.jpg" width="140" height="69" />
+-    <p> <a href="https://www.youtube.com/watch?v=RddiS7n8uQA" target="_blank" >Deja Vu Dreaming </a> </p>
+-    <img src="paralysis.jpg"<img src=".idea/pics/paralysis.jpg" height="1270" width="1920"/> width="140" height="69" />
+-    <p> <a href="https://www.psychologytoday.com/intl/blog/the-savvy-psychologist/202010/why-sleep-paralysis-happens-and-how-prevent-it" target="_blank" >What is Sleep paralysis? </a> </p>
+-    <img src="zzz.jpg" width="140" height="69" />
+-    <p> <a href="https://www.sleepfoundation.org/articles/do-dreams-affect-how-well-you-sleep" target="_blank" >How do Dreams effect sleep?</a> </p>
+-</div>
+-<h3>“If you put that all together, what you have is a movie..” </h3>
+-<div>
+-    <p>
+-        <b>In the tradition of Sigmund Freud and Carl Jung, some psychologists today still use dreams in therapy to help people better understand themselves and their psyches. Rubin Naiman, PhD, is one such psychologist. A sleep and dream expert with the University of Arizona’s Center for Integrative Medicine, Naiman not only advocates for the power of dreams but also believes society is in the midst of an “epidemic of dream loss,” spurred on by the collective brush-off our culture has given to these nightly visions.
+-            “We are so dismissive about dreams,” he says. “It’s a huge issue. It’s kind of like pretending the moon doesn’t exist.”</b>
+-    </p>
+-    <p>
+-        <b>In the 1970s, Oldis was involved in early dream research that focused on whether dreams had an effect on our waking lives. It was at this time when researchers discovered that people bodies move while they dream. While this was important information, it became newly relevant to Oldis in 2014, when he read about researchers in Japan who were capturing images from dreams using functional magnetic resonance imaging (fMRI). That got him thinking: Why not also record their movements? And while you’re at it, why not speech as well?
+-            “If you put that all together, what you have is a movie,” Oldis says.</b>
+-    </p>
+-    <p>
+-        <b>That became his new research question: Can dreams be turned into watchable movies? This led Oldis to partner with the University of Texas at Austin’s Cognitive Neuroscience Lab in 2017 to track the motor behavior of a dreamer. By using an electromyogram (EGM) to measure nerve impulses to the muscles, the researchers successfully recorded the movements of a subject’s dreams, which Oldis turned into a walking avatar that he presented at the International Association for the Study of Dreams in 2017 — the first step to making a dream movie.
+-            “This is like the early years of the space race,” he says. “But in this case, we’re going into the dream space.”</b>
+-    </p>
+-    <p>
+-        <b>Oldis has also done some early work around recording dream speech. By attaching electrodes to a sleeper’s speech muscles, he was able to pick up some elements of their dream dialogues, though full sentences and meanings could not be deciphered. He plans to run another experiment at the University of Texas at Austin this fall that he hopes will result in complete speech readings.
+-            In addition to conducting those experiments, Oldis has compiled a team of nearly two dozen dream researchers, neurobiologists, sleep scientists, and psychologists (which he calls “the dream team”) from academic institutions and organizations across the country — including the UCLA School of Medicine, the U.S. Army Research Laboratory, the University of Texas Health Science Center at San Antonio, and more — to put all the components together and create the first dream movie. Next summer, the team will take over a recording studio in Burbank, California. They’ll bring in a mobile MRI and attempt to record the movement, speech, and images from the full dreams of three or four sleeping subjects.</b>
+-    </p>
+-</div>
+-
+-
+-</body>
+-</html>
+\ No newline at end of file
+Index: nanuka/homework1.html
+===================================================================
+--- nanuka/homework1.html	(revision fd57dc9ac3e308ea89066c2621df712509d544c2)
++++ nanuka/homework1.html	(revision fd57dc9ac3e308ea89066c2621df712509d544c2)
+@@ -1,52 +0,0 @@
+-<!DOCTYPE html>
+-<html lang="en" xmlns="http://www.w3.org/1999/html">
+-<head>
+-    <meta charset="UTF-8">
+-    <title>Music</title>
+-    <link rel="stylesheet" href="nanuka/css.css">
+-</head>
+-<body>
+-<h1>MUSIC</h1>
+-<p1>  Music is an art form, and a cultural activity, whose medium is sound.
+-    General definitions of music include common elements such aspitch
+-    (which governs melody and harmony), rhythm (and its associated concepts tempo,
+-    meter, and articulation), dynamics (loudness and softness), and the sonic qualities
+-    of timbre and texture (which are sometimes termed the "color" of a musical sound).
+-    Different styles or types of music may emphasize, de-emphasize or omit some of these elements.
+-    Music is performed with a vast range of instruments and vocal techniques ranging from singing to rapping;
+-    there are solely instrumental pieces, solely vocal pieces (such as songs without instrumental accompaniment)
+-    and pieces that combine singing and instruments. The word derives from Greek μουσική (
+-    mousike; "art of the Muses").[1] See glossary of musical terminology.
+-</p1>
+-</div>
+-<div>
+-    <h2 id="COMPOSITION">COMPOSITION</h2>
+-<p>
+-    "Composition" is the act or practice of creating a song, an instrumental music piece,
+-    a work with both singing and instruments, or another type of music. In many cultures,
+-    including Western classical music, the act of composing also includes the creation of music notation,
+-    such as a sheet music "score", which is then performed by the composer or by other singers or musicians.
+-    In popular music and traditional music, the act of composing, which is typically called songwriting,
+-    may involve the creation of a basic outline of the song, called the lead sheet, which sets out the melody,
+-    lyrics and chord progression. In classical music, the composer typically orchestrates his or her own
+-    compositions, but in musical theatre and in pop music, songwriters may hire an arranger to do the
+-    orchestration. In some cases, a songwriter may not use notation at all, and instead compose the song in
+-    her mind and then play or record it from memory. In jazz and popular music, notable recordings by
+-    influential performers are given the weight that written scores play in classical music.
+-</p>
+-
+-    <H3 ID="COMPOSITION">Improvisation</H3>
+-<p>
+-    Musical improvisation is the creation of spontaneous music, often within (or based on) 
+-    a pre-existing harmonic framework or chord progression. Improvisers use the notes of the chord, 
+-    various scales that are associated with each chord, and chromatic ornaments and passing tones
+-    which may be neither chord tones not from the typical scales associated with a chord. Musical 
+-    improvisation can be done with or without preparation. Improvisation is a major part of some types of
+-    music, such as blues, jazz, and jazz fusion, in which instrumental performers improvise solos, melody 
+-    lines and accompaniment parts.
+-</p>
+-    <img src=""><img src="dc2822d412bd5eccb4e31a6b3a35bb1a.jpg" height="846" width="564"/>
+-<img src="">
+-    <img src="dc2822d412bd5eccb4e31a6b3a35bb1a.jpg" height="846" width="564"/>
+-</body>
+-</html>
+Index: homework 2/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Movie world</title>\r\n    <link rel=\"stylesheet\" href=\"styles2.css\">\r\n</head>\r\n<body>\r\n<h1>     Movie World    </h1>\r\n<img src=\"9520fdda2e29007fdc90e74fd8fb4e49.jpg\" \"\r\n<p> <a href=\"https://simple.wikipedia.org/wiki/Movie\" target=\"_blank\" > What are Movies? </a> </p>\r\n<h2>“ what are Movies? Movies, or films, are a type of visual communication which uses moving pictures and sound to tell stories\r\n    or teach people something. Most people watch movies as a type of entertainment or a way to have fun. For some\r\n    people, fun movies can mean movies that make them laugh, while for others it can mean movies that make them\r\n    cry, or feel afraid.”</h2>\r\n<div class=\"container\">\r\n    <p class=\"container\">\r\n        <img src=\"05312394660dcf838f53d83455ab1c94.jpg\"\r\n    <p> <a href=\"https://www.studiobinder.com/blog/movie-genres-list/\" target=\"_blank\" >Types of movies </a> </p>\r\n        <b> Action movies have a lot of exciting effects like car chases and gun fights, involving stuntmen. They usually involve 'goodies' and 'baddies', so war and crime are common subjects. Action movies usually need very little effort to watch, since the plot is normally simple. For example, in Die Hard, terrorists take control of a skyscraper and ask for a big ransom in exchange for not killing the hostage workers. One hero somehow manages to save everyone. Action movies do not usually make people cry, but if the action movie is also a drama, emotion will be involved.\r\n            Adventure Movies usually involve a hero who sets out on a quest to save the world or loved ones.\r\n            Animated movies use artificial images like talking cartoons to tell a story. These movies used to be drawn by hand, one frame at a time, but are now made on computers.\r\n            Buddy movies involve 2 heroes, one must save the other, both must overcome obstacles. Buddy movies often involve comedy, but there is also some emotion, because of the close friendship between the 'buddies'.\r\n            Comedies are funny movies about people being silly or doing unusual things or being in silly or unusual situations that make the audience laugh.\r\n            Documentaries are movies that are (or claim to be) about real people and real events. They are nearly always serious and may involve strongly emotional subjects, for example cruelty.\r\n            Dramas are serious, and often about people falling in love or needing to make a big decision in their life. They tell stories about relationships between people. They usually follow a basic plot where one or two main characters (each actor plays a character) have to 'overcome' (get past) an obstacle (the thing stopping them) to get what they want.\r\n            Tragedies are always dramas, and are about people in trouble. For example, a husband and wife who are divorcing must each try to prove to a court of law that they are the best person to take care of their child. Emotion (feelings) are a big part of the movie and the audience (people watching the movie) may get upset and even cry.\r\n            Film noir movies are 1940s-era detective dramas about crime and violence.\r\n            Family movies are made to be good for the entire family. They are mainly made for children but often entertaining for adults as well. Disney is famous for their family movies.\r\n            Horror movies use fear to excite the audience. Music, lighting and sets (man-made places in movie studios where the movie is made) are all designed to add to the feeling.\r\n            Romantic Comedies (Rom-Coms) are usually love stories about 2 people from different worlds, who must overcome obstacles to be together. Rom-Coms are usually light-hearten, but may include some emotion.\r\n            Comedy horror movies blend horror and comic motifs in its plots. Movies in this genre sometimes use black comedy as the main form of humor.\r\n            Science fiction movies are set in the future or in outer space. Some use their future or alien settings to ask questions about the meaning of life or how we should think about life. Science fiction movies often use special effects to create images of alien worlds, outer space, alien creatures, and spaceships.\r\n            Fantasy movies include magical and impossible things that any real human being cannot do.\r\n            Thrillers are usually about a mystery, strange event, or crime that needs to be solved. The audience is kept guessing until the final minutes, when there are usually 'twists' in the plot (surprises).\r\n            Suspense movies keep you on the edge of your seat. They usually have multiple twists that confuse the watcher.\r\n            Western movies tell stories about cowboys in the western United States in the 1870s and 1880s. They are usually action movies, but with historical costumes. Some involve Native Americans. Not all films that are set in the American West are made there. For example, Western films made in Italy are called Spaghetti Westerns. Some films can also use Western plots even if they are set in other places.\r\n            .</b>\r\n    </p>\r\n        <b Movies are watched by everyone. We all enjoy them. From thrillers to adventures, comedy to horror movies is part of everyday life and the industry is growing every single day. Learn how they affect our society\r\n        </b>\r\n    </p>\r\n</div>\r\n<div class=\"container\">\r\n    <img src=\"bigfish.jpg\"/>\r\n    <p> <a href=\"https://yourstory.com/mystory/how-movies-impact-societies\" target=\"_blank\" >how movies affect us? </a> </p>\r\n\r\n</div>\r\n<h3> Movies inspires us </h3>\r\n<div>\r\n    <p>\r\n        <b A good movie will entertain, educate, and inspire the viewer in many ways. Think of the impact that songs have on people, for example. They make us think. They make us compassionate. They inspire us to help others and to do good to and for humanity.\r\n\r\n            Read more  </b>\r\n    </p>\r\n    <p>\r\n        <b>Movies can create awareness on multiple aspects of life  People need to be reminded about the importance of formal education as well as co-curricular school activities such as art and sports. School-related films underline this importance and give education stakeholders ideas on how to improve education systems in different parts of the world. Besides that, film brings us to understand the negative effects of drugs, alcohol, and substance abuse. Crime and action TV shows also warn us about the dangers of criminal activities, terrorism, and war. Speaking of war, movies help people understand the atrocity of living homeless and miserably in refugee camps. Movies awaken the senses of empathy in people who have never experienced civil war firsthand. They help us feel responsible for our brothers and sisters living in war-torn countries even as much as we’ve never been there ourselves. This is the awareness that has fuelled the growth of so many charity organizations and trust funds.\r\n\r\n            </b>\r\n    </p>Every movie is set and developed in a particular culture. They are an integral part of us; they mirror what we believe in and how we coexist as people. It is easier to see our concerns, attitudes, flaws, and strengths in films than it is to decipher them from our daily interactions. When our prevalent beliefs and ideologies are challenged in films, we are able to interrogate ourselves and embrace change. And thanks to audiovisual translations, people from all over the world are able to watch movies and understand the cultures of faraway communities. That has, in turn, helped us to become more united even when our cultures are so different and diverse.\r\n\r\n    <p>\r\n        <b>  Besides mirroring our diverse cultures, the film has for a long time been shaping our beliefs and values. A good example is when people copy fashion trends from movie stars and musicians. It is also common these days to find societies using figures of speech that are inspired by the film industry. At the very least, film solidifies selected cultural beliefs and renders some redundant.\r\n        </b>\r\n    </p>\r\n    <p>\r\n        <b>  Most history movies are fact-based and, even for the few that are fictional, they still depict a realistic and fantastic picture of how the world was before the invention of the audiovisual devices that we know today. They connect the modern world with past generations. A good example is the Vietnam War movies that explain what transpired back in the day and help today’s generation to appreciate the significances of the war, both positive and negative. Add transcription services to these movies and the history comes out even clearer. Transcribed historical videos support learning by connecting viewers to the proper subject matter without losing the context.\r\n    </p>\r\n</div>\r\n\r\n\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- homework 2/index.html	(revision fd57dc9ac3e308ea89066c2621df712509d544c2)
++++ homework 2/index.html	(date 1610288368065)
+@@ -3,11 +3,11 @@
+ <head>
+     <meta charset="UTF-8">
+     <title>Movie world</title>
+-    <link rel="stylesheet" href="styles2.css">
++    <link rel="stylesheet" href="styless2.css">
+ </head>
+ <body>
+ <h1>     Movie World    </h1>
+-<img src="9520fdda2e29007fdc90e74fd8fb4e49.jpg" "
++<img src=""
+ <p> <a href="https://simple.wikipedia.org/wiki/Movie" target="_blank" > What are Movies? </a> </p>
+ <h2>“ what are Movies? Movies, or films, are a type of visual communication which uses moving pictures and sound to tell stories
+     or teach people something. Most people watch movies as a type of entertainment or a way to have fun. For some
+@@ -15,7 +15,8 @@
+     cry, or feel afraid.”</h2>
+ <div class="container">
+     <p class="container">
+-        <img src="05312394660dcf838f53d83455ab1c94.jpg"
++        <img src="../../../OneDrive/Desktop/davaleba/289930007fb18b3fcffecf26fe4b925b.jpg" height="294" width="564"/>
++
+     <p> <a href="https://www.studiobinder.com/blog/movie-genres-list/" target="_blank" >Types of movies </a> </p>
+         <b> Action movies have a lot of exciting effects like car chases and gun fights, involving stuntmen. They usually involve 'goodies' and 'baddies', so war and crime are common subjects. Action movies usually need very little effort to watch, since the plot is normally simple. For example, in Die Hard, terrorists take control of a skyscraper and ask for a big ransom in exchange for not killing the hostage workers. One hero somehow manages to save everyone. Action movies do not usually make people cry, but if the action movie is also a drama, emotion will be involved.
+             Adventure Movies usually involve a hero who sets out on a quest to save the world or loved ones.
+@@ -35,14 +36,14 @@
+             Thrillers are usually about a mystery, strange event, or crime that needs to be solved. The audience is kept guessing until the final minutes, when there are usually 'twists' in the plot (surprises).
+             Suspense movies keep you on the edge of your seat. They usually have multiple twists that confuse the watcher.
+             Western movies tell stories about cowboys in the western United States in the 1870s and 1880s. They are usually action movies, but with historical costumes. Some involve Native Americans. Not all films that are set in the American West are made there. For example, Western films made in Italy are called Spaghetti Westerns. Some films can also use Western plots even if they are set in other places.
+-            .</b>
++            </b>
+     </p>
+         <b Movies are watched by everyone. We all enjoy them. From thrillers to adventures, comedy to horror movies is part of everyday life and the industry is growing every single day. Learn how they affect our society
+         </b>
+     </p>
+ </div>
+ <div class="container">
+-    <img src="bigfish.jpg"/>
++    <img src="pics/7dd681848279f8ead930a837bc001dce.jpg" height="316" width="235"/>
+     <p> <a href="https://yourstory.com/mystory/how-movies-impact-societies" target="_blank" >how movies affect us? </a> </p>
+ 
+ </div>
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1610286651026)
++++ .idea/vcs.xml	(date 1610286651026)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: homework 2/styless2.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>body {\r\n    background-image: url(\"jetbrains://web-storm/navigate/reference?project=class1&path=.idea/pics/bigfish.jpg)\r\n}\r\nh1 {\r\n 0   font-size:40px;\r\n    -webkit-text-fill-color: transparent;\r\n    -webkit-text-stroke: 2px black;\r\n    border:3.5px solid #112b86;\r\n}\r\nh1, h2,h3 {\r\n    text-align: center;\r\n}\r\n.container {\r\n    display:flex;\r\n    flex-direction:row;\r\n    border:2px solid #a22222;\r\n    padding:20px;\r\n    margin: 20px;\r\n}\r\nh3 {\r\n    font-size:25px;\r\n    -webkit-text-fill-color: transparent;\r\n    -webkit-text-stroke: 1.5px #36412e;\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- homework 2/styless2.css	(revision fd57dc9ac3e308ea89066c2621df712509d544c2)
++++ homework 2/styless2.css	(date 1610288807518)
+@@ -1,8 +1,8 @@
+ body {
+-    background-image: url("jetbrains://web-storm/navigate/reference?project=class1&path=.idea/pics/bigfish.jpg)
++    background-image:("np.jpg")
+ }
+ h1 {
+- 0   font-size:40px;
++    font-size:40px;
+     -webkit-text-fill-color: transparent;
+     -webkit-text-stroke: 2px black;
+     border:3.5px solid #112b86;
+@@ -10,13 +10,7 @@
+ h1, h2,h3 {
+     text-align: center;
+ }
+-.container {
+-    display:flex;
+-    flex-direction:row;
+-    border:2px solid #a22222;
+-    padding:20px;
+-    margin: 20px;
+-}
++
+ h3 {
+     font-size:25px;
+     -webkit-text-fill-color: transparent;
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1610288976847)
++++ .idea/workspace.xml	(date 1610288976847)
+@@ -0,0 +1,237 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="BranchesTreeState">
++    <expand>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++    </expand>
++    <select />
++  </component>
++  <component name="ChangeListManager">
++    <list default="true" id="e4de086a-f7b9-4299-8130-d4f4a617e19e" name="Default Changelist" comment="">
++      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/homework 2/pics/289930007fb18b3fcffecf26fe4b925b.jpg" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/homework 2/pics/6eee05a44e2c0755c014230bd40612fb.jpg" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/homework 2/pics/7dd681848279f8ead930a837bc001dce.jpg" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/homework 2/pics/np.jpg" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/hmwrk3/dropdown.css" beforeDir="false" afterPath="$PROJECT_DIR$/sia/dropdown.css" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/hmwrk3/dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/sia/dropdown.js" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/hmwrk3/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/sia/index3.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/homework 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework 2/index.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/homework 2/styless2.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework 2/styless2.css" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/nanuka/cdfc69fe5858b388061493ff23a1ae5e.jpg" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/nanuka/dc2822d412bd5eccb4e31a6b3a35bb1a.jpg" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/nanuka/homework1.html" beforeDir="false" />
++    </list>
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="HTML File" />
++        <option value="JavaScript File" />
++        <option value="CSS File" />
++      </list>
++    </option>
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="ProjectId" id="1jrNvaix2KGfKC3urKuTqLWEEST" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
++  <component name="PropertiesComponent">
++    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
++    <property name="DefaultHtmlFileTemplate" value="HTML File" />
++    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
++    <property name="WebServerToolWindowFactoryState" value="false" />
++    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="AngularJS" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework 2/pics" />
++    <property name="list.type.of.created.stylesheet" value="CSS" />
++    <property name="node.js.detected.package.eslint" value="true" />
++    <property name="node.js.detected.package.tslint" value="true" />
++    <property name="node.js.path.for.package.eslint" value="project" />
++    <property name="node.js.path.for.package.tslint" value="project" />
++    <property name="node.js.selected.package.eslint" value="(autodetect)" />
++    <property name="node.js.selected.package.tslint" value="(autodetect)" />
++    <property name="nodejs_package_manager_path" value="npm" />
++    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
++    <property name="vue.rearranger.settings.migration" value="true" />
++  </component>
++  <component name="RecentsManager">
++    <key name="CopyFile.RECENT_KEYS">
++      <recent name="C:\Users\Nanuka\WebstormProjects\class1\homework 2\pics" />
++    </key>
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="C:\Users\Nanuka\WebstormProjects\class1\hmwrk" />
++      <recent name="C:\Users\Nanuka\WebstormProjects\class1\homework 2" />
++      <recent name="C:\Users\Nanuka\WebstormProjects\class1\nanuka" />
++      <recent name="C:\Users\Nanuka\WebstormProjects\class1\.idea\pics" />
++      <recent name="C:\Users\Nanuka\WebstormProjects\class1\hmwrk2" />
++    </key>
++  </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="e4de086a-f7b9-4299-8130-d4f4a617e19e" name="Default Changelist" comment="" />
++      <created>1604558498123</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1604558498123</updated>
++      <workItem from="1604558502855" duration="4354000" />
++      <workItem from="1604563404157" duration="3787000" />
++      <workItem from="1604571241022" duration="588000" />
++      <workItem from="1606320372026" duration="1743000" />
++      <workItem from="1606336962740" duration="1210000" />
++      <workItem from="1606486027114" duration="4176000" />
++      <workItem from="1606498850569" duration="2017000" />
++      <workItem from="1606588697057" duration="4363000" />
++      <workItem from="1606938577861" duration="882000" />
++      <workItem from="1608126753121" duration="1726000" />
++      <workItem from="1608128912399" duration="1543000" />
++      <workItem from="1608131327325" duration="1694000" />
++      <workItem from="1608133217156" duration="1282000" />
++      <workItem from="1608244955840" duration="1700000" />
++      <workItem from="1608246774765" duration="1722000" />
++      <workItem from="1608248605544" duration="1729000" />
++      <workItem from="1608250470718" duration="1729000" />
++      <workItem from="1608252315474" duration="552000" />
++      <workItem from="1608321976802" duration="1180000" />
++      <workItem from="1610286462950" duration="1697000" />
++      <workItem from="1610288332250" duration="631000" />
++    </task>
++    <task id="LOCAL-00001" summary="Initial commit">
++      <created>1606498943673</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1606498943673</updated>
++    </task>
++    <task id="LOCAL-00002" summary="Initial commit">
++      <created>1608131478503</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1608131478503</updated>
++    </task>
++    <task id="LOCAL-00003" summary="Initial commit">
++      <created>1608133974255</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1608133974255</updated>
++    </task>
++    <task id="LOCAL-00004" summary="Initial commit">
++      <created>1608134216866</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1608134216866</updated>
++    </task>
++    <task id="LOCAL-00005" summary="Initial commit">
++      <created>1608245483359</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1608245483359</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
++    <servers />
++  </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++    <option name="oldMeFiltersMigrated" value="true" />
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Initial commit" />
++    <option name="LAST_COMMIT_MESSAGE" value="" />
++  </component>
++  <component name="WindowStateProjectService">
++    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606338239720">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1606338239720" />
++    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608129735022">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608129735022" />
++    <state x="430" y="219" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604568979017">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="430" y="219" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1604568979017" />
++    <state x="92" y="92" width="1182" height="544" maximized="true" key="DiffContextDialog" timestamp="1608252223313">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="92" y="92" width="1182" height="544" maximized="true" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1608252223313" />
++    <state x="507" y="266" key="Github.CreateGistDialog" timestamp="1604570684000">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="507" y="266" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1604570684000" />
++    <state x="603" y="253" width="243" height="276" key="Github.ShareDialog" timestamp="1606499378901">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="603" y="253" width="243" height="276" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1606499378901" />
++    <state x="498" y="69" key="Github.UntrackedFilesDialog" timestamp="1604563453027">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="498" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604563453027" />
++    <state x="129" y="55" key="MergeDialog" timestamp="1608245616441">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="129" y="55" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1608245616441" />
++    <state x="321" y="125" key="MultipleFileMergeDialog" timestamp="1608245616454">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1608245616454" />
++    <state x="481" y="66" key="RollbackChangesDialog" timestamp="1608252480161">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="481" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608252480161" />
++    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1610288574933">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610288574933" />
++    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610288549464">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1610288549463" />
++    <state x="339" y="162" key="run.anything.popup" timestamp="1606500765674">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1606500765674" />
++    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606500774467">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1606500774467" />
++  </component>
++</project>
+\ No newline at end of file
+diff --git hmwrk3/index3.html sia/index3.html
+rename from hmwrk3/index3.html
+rename to sia/index3.html
+diff --git hmwrk3/dropdown.css sia/dropdown.css
+rename from hmwrk3/dropdown.css
+rename to sia/dropdown.css
+diff --git hmwrk3/dropdown.js sia/dropdown.js
+rename from hmwrk3/dropdown.js
+rename to sia/dropdown.js
