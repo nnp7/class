@@ -1,28 +1,28 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta charset="utf-8">
-
-
-    <script type="text/javascript">
-
-        function load()
-        {
-            WorldMap("world-map",
-                {
-                    width: 5000,
-                    height: 1000,
-                    landsColor: '#008282',
-                    zoom: true
-                });
-        }
-
-    </script>
-
-    <script src="world-map.min.js"></script>
-    <script src="main.js"></script>
+    <title>map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+          integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+          crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+            integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+            crossorigin=""></script>
+    <style>
+        #map {position: absolute; top: 0; bottom: 0; left: 0; right: 0;}
+    </style>
 </head>
-<body onload="load()">
-<div id="world-map"></div>
+<body>
+<div id = "map"></div>
+<script>
+    var map = L.map('map').setView([0, 0], 1);
+
+    L.tileLayer('https://api.maptiler.com/maps/basic/{z}/{x}/{y}.png?key=zM60Ymgz9v18OZhhydp1', {
+        attribution: '<a href="https://www.maptiler.com/copyright/" target="_blank">&copy; MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>'
+    }).addTo(map);
+    var marker = L.marker([68, 95]).addTo(map);
+    marker.bindPopup("<b>Russia</b><br> is a transcontinental country located in Eastern Europe and Northern Asia. It extends from the Baltic Sea in the west to the Pacific Ocean in the east, and from the Arctic Ocean in the north to the Black and Caspian seas in the south. Russia covers 17,125,191 square kilometres (6,612,073 sq mi), spanning more than one-eighth of the Earth's inhabited land area, stretching eleven time zones, and bordering 16 sovereign nations").openPopup();
+    var marker = L.marker([45, 69]).addTo(map);
+    marker.bindPopup("<b>Kazakhzstan</b><br> officially the Republic of Kazakhstan,[f][4][13] is a transcontinental country mainly located in Central Asia with a smaller portion west of the Ural River in Eastern Europe. It covers a land area of 2,724,900 square kilometres (1,052,100 sq mi), and shares land borders with Russia in the north, China in the east, and Kyrgyzstan, Uzbekistan, and Turkmenistan in the south while also adjoining a large part of the Caspian Sea in the southwest. Kazakhstan does not border Mongolia, although they are only 37 kilometers apart.").openPopup();
+</script>
 </body>
-</html>

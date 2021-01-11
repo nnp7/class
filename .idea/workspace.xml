@@ -19,13 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4de086a-f7b9-4299-8130-d4f4a617e19e" name="Default Changelist" comment="Update index.html">
-      <change afterPath="$PROJECT_DIR$/map/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map/world-map.min.js" afterDir="false" />
+    <list default="true" id="e4de086a-f7b9-4299-8130-d4f4a617e19e" name="Default Changelist" comment="Merge remote-tracking branch 'gith/master'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/map.html" beforeDir="false" afterPath="$PROJECT_DIR$/map/map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/world-map.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p5/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p5/p5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p5/script.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +120,9 @@
       <workItem from="1610314255087" duration="285000" />
       <workItem from="1610364063549" duration="1785000" />
       <workItem from="1610366137468" duration="1747000" />
-      <workItem from="1610368019630" duration="709000" />
+      <workItem from="1610368019630" duration="1445000" />
+      <workItem from="1610448599571" duration="1730000" />
+      <workItem from="1610455070573" duration="574000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1606498943673</created>
@@ -183,7 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610314469455</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'gith/master'">
+      <created>1610368776659</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1610368776659</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'gith/master'">
+      <created>1610368852451</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610368852451</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,9 +221,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <MESSAGE value="Merge remote-tracking branch 'gith/master'" />
     <MESSAGE value="Update index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update index.html" />
+    <MESSAGE value="Merge remote-tracking branch 'gith/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'gith/master'" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606338239720">
@@ -248,10 +266,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="481" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608252480161" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1610291010721">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1610368872681">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610291010721" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610368872681" />
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610288549464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
